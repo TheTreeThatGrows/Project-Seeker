@@ -1333,5 +1333,5 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  actionsOnHit: {fileID: 5619217899742517236, guid: eea216dc48eb3194a8a709181cb45912,
+  actionsOnHit: {fileID: 8418157752286721231, guid: 2fac6a2da10cf497e94ab9d7b82c68ee,
     type: 3}

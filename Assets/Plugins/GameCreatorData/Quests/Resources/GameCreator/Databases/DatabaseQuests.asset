@@ -12,16 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f735d8d0aa984e6cbccc634eb414ee1, type: 3}
   m_Name: DatabaseQuests
   m_EditorClassIdentifier: 
-  quests: {fileID: 11400000, guid: 926e2d566359d664f8dc40d08808e08d, type: 2}
-  list: []
+  quests: {fileID: 11400000, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  list:
+  - {fileID: 114674995294656434, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114489884777958684, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114082004578071952, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114700164890502156, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114549202377082124, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114703024333072266, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114025235498648472, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114789793967114666, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114100349208120626, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
   settings:
     journalSkin: {fileID: 0}
     questsHUDSkin: {fileID: 0}
   questsTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_SelectedIDs: de8bfeff
+    m_LastClickedID: -95266
+    m_ExpandedIDs: 4af5ffff88f5ffff42f6ffff80f6ffffcef6ffff84f7ffffc2f7ffff20f8ffff6af9ffffacf9ffffe2f9ffff42faffff000000004c2c00004e2c0000562c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -16,10 +16,10 @@ MonoBehaviour:
   rtcSimple: {fileID: 221161001172850442}
   rtcLocomotion: {fileID: 221793186460999426}
   rtcOther: {fileID: 0}
-  enterClip: {fileID: 7400000, guid: 44fbb37608f331c49bc7b96ca36035e6, type: 3}
-  enterAvatarMask: {fileID: 31900000, guid: f98c7cdcf31c34677a3ce87d96135a28, type: 2}
-  exitClip: {fileID: 7400000, guid: 44fbb37608f331c49bc7b96ca36035e6, type: 3}
-  exitAvatarMask: {fileID: 31900000, guid: f98c7cdcf31c34677a3ce87d96135a28, type: 2}
+  enterClip: {fileID: 0}
+  enterAvatarMask: {fileID: 0}
+  exitClip: {fileID: 0}
+  exitAvatarMask: {fileID: 0}
 --- !u!221 &221161001172850442
 AnimatorOverrideController:
   m_ObjectHideFlags: 1
@@ -40,4 +40,5 @@ AnimatorOverrideController:
   m_Clips:
   - m_OriginalClip: {fileID: 74822647580234304, guid: 7adf3f4052f80468ab57a887ef72a785,
       type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: b320c1eda692a2649b10f2d8dbb19bb1, type: 3}
+    m_OverrideClip: {fileID: 74007647543371762, guid: 8e78795eca969447d8f603423f63cf05,
+      type: 2}
