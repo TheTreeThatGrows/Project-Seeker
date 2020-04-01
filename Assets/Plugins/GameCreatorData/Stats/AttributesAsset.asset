@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac1e52345c5a4a8489aff2c0a41bacb, type: 3}
+  m_Name: AttributesAsset
+  m_EditorClassIdentifier: 
+  attributes:
+  - {fileID: 114271743648443778}
+  - {fileID: 114291937499452772}
+  - {fileID: 114072653249428620}
+--- !u!114 &114072653249428620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ed1946d26146d59a35072bef19b50, type: 3}
+  m_Name: zgp1llma
+  m_EditorClassIdentifier: 
+  uniqueID: 2508025a9ed64a7d967ded6ae6df3f5c
+  attribute:
+    uniqueName: stamina
+    shortName: STA
+    title:
+      content: Stamina
+      postProcess: 0
+      translationID: 0
+    description:
+      content: Amount of Stamina
+      postProcess: 0
+      translationID: 0
+    icon: {fileID: 0}
+    color: {r: 1, g: 0.95106304, b: 0, a: 1}
+    minValue: 0
+    stat: {fileID: 114936355189639016, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+    percent: 1
+--- !u!114 &114271743648443778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ed1946d26146d59a35072bef19b50, type: 3}
+  m_Name: fcmjugrs
+  m_EditorClassIdentifier: 
+  uniqueID: 5e2ebb424fe440b282a1b3c630e866e8
+  attribute:
+    uniqueName: level
+    shortName: Lv.
+    title:
+      content: Level
+      postProcess: 0
+      translationID: 0
+    description:
+      content: Current Level
+      postProcess: 0
+      translationID: 0
+    icon: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 1}
+    minValue: 1
+    stat: {fileID: 114866688907080766, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+    percent: 1
+--- !u!114 &114291937499452772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ed1946d26146d59a35072bef19b50, type: 3}
+  m_Name: 950k3c2e
+  m_EditorClassIdentifier: 
+  uniqueID: e27289e8cd864e5bbea47c1d20e7777d
+  attribute:
+    uniqueName: health
+    shortName: HP
+    title:
+      content: Health
+      postProcess: 0
+      translationID: 0
+    description:
+      content: Amount of health
+      postProcess: 0
+      translationID: 0
+    icon: {fileID: 21300000, guid: b8c97d211424948b9a5d6e2cf6f9a641, type: 3}
+    color: {r: 0.8666667, g: 0.21339111, b: 0.20392156, a: 1}
+    minValue: 0
+    stat: {fileID: 114175997067868362, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+    percent: 1
