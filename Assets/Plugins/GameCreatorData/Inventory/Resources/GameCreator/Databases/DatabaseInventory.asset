@@ -52,12 +52,12 @@ MonoBehaviour:
         content: LeftHand
         postProcess: 0
         translationID: 0
-    - id: MainWeapon
+    - id: Weapon
       name:
-        content: MainWeapon
+        content: 
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Armor
       name:
         content: 
         postProcess: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
   inventorySettings:
     merchantUIPrefab: {fileID: 0}
     containerUIPrefab: {fileID: 0}
-    inventoryUIPrefab: {fileID: 1776935227048216, guid: 8d2fd14a2c95a4818a01edf51761b09d,
+    inventoryUIPrefab: {fileID: 1776935227048216, guid: 58c9ae6351673784ba6d4f0c3e933d08,
       type: 3}
     onDragGrabItem: 1
     saveInventory: 1
