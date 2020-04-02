@@ -14138,7 +14138,6 @@ GameObject:
   - component: {fileID: 114163749987708394}
   - component: {fileID: 225980532623774336}
   - component: {fileID: 114476696645762102}
-  - component: {fileID: 114413527002008768}
   m_Layer: 5
   m_Name: Window (Spell Book)
   m_TagString: Untagged
@@ -14275,18 +14274,6 @@ MonoBehaviour:
   m_OnButtonUp:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &114413527002008768
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1631859437856260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2e1ce3fe4b4851478e36a2f9a4db54b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1641050437490960
 GameObject:
   m_ObjectHideFlags: 0

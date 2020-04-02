@@ -33,6 +33,16 @@ MonoBehaviour:
           type: 2}
       limitAmount: 1
       maxAmount: 3
+    - item:
+        item: {fileID: 114212023077505736, guid: 7db43c44761c8486cb3f2e9968376eb5,
+          type: 2}
+      limitAmount: 1
+      maxAmount: 3
+    - item:
+        item: {fileID: 114670950127064220, guid: 7db43c44761c8486cb3f2e9968376eb5,
+          type: 2}
+      limitAmount: 1
+      maxAmount: 3
   purchasePercent:
     optionIndex: 0
     value: 1

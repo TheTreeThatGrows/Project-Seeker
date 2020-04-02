@@ -57,54 +57,54 @@ MonoBehaviour:
         content: 
         postProcess: 0
         translationID: 0
-    - id: Armor
+    - id: Armor/
       name:
-        content: 
+        content: Helmet
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Armor/
       name:
-        content: 
+        content: Chest
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Armor/
       name:
-        content: 
+        content: Gloves
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Armor/
       name:
-        content: 
+        content: Legs
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Armor/
       name:
-        content: 
+        content: Boots
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Accessory/
       name:
-        content: 
+        content: Cloak
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Accessory/
       name:
-        content: 
+        content: Necklace
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Accessory/
       name:
-        content: 
+        content: Belt
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Accessory/
       name:
-        content: 
+        content: Ring
         postProcess: 0
         translationID: 0
-    - id: 
+    - id: Accessory/
       name:
-        content: 
+        content: Armwrist
         postProcess: 0
         translationID: 0
     - id: 
@@ -397,10 +397,10 @@ MonoBehaviour:
   itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   sprite: {fileID: 21300000, guid: 23de4d75b7c2645f18974205d5ee7158, type: 3}
   prefab: {fileID: 0}
-  price: 50
+  price: 0
   maxStack: 1
   weight: 5
-  itemTypes: 10
+  itemTypes: 64
   onClick: 1
   consumeItem: 0
   actionsOnClick: {fileID: 114304329568707516, guid: 3664d0efba40844f0989b1e934ebee0b,
@@ -553,10 +553,10 @@ MonoBehaviour:
   itemColor: {r: 0.9150943, g: 0.3496351, b: 0.3496351, a: 1}
   sprite: {fileID: 21300000, guid: 00dfef9721b7b47bd8d11c253353104d, type: 3}
   prefab: {fileID: 0}
-  price: 50
+  price: 0
   maxStack: 1
   weight: 5
-  itemTypes: 10
+  itemTypes: 128
   onClick: 1
   consumeItem: 0
   actionsOnClick: {fileID: 114304329568707516, guid: f7c5ad8e59302427ebdb4f9b6a4fddd9,
