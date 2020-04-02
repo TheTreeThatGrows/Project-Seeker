@@ -77,7 +77,7 @@ MonoBehaviour:
     icon: {fileID: 21300000, guid: b8c97d211424948b9a5d6e2cf6f9a641, type: 3}
     color: {r: 0.8666667, g: 0.20392156, b: 0.20392156, a: 1}
     baseValue: 100
-    formula: {fileID: 11400000, guid: de07213b159974cdaa6112937b8c1f00, type: 2}
+    formula: {fileID: 0}
   isHidden: 0
 --- !u!114 &114307909447248710
 MonoBehaviour:
@@ -192,7 +192,7 @@ MonoBehaviour:
       translationID: 0
     icon: {fileID: 0}
     color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    baseValue: 30
+    baseValue: 10
     formula: {fileID: 0}
   isHidden: 0
 --- !u!114 &114866688907080766
@@ -245,11 +245,11 @@ MonoBehaviour:
       postProcess: 0
       translationID: 0
     description:
-      content: Ability to repair things
+      content: Ability to dodge
       postProcess: 0
       translationID: 0
     icon: {fileID: 0}
     color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     baseValue: 100
-    formula: {fileID: 11400000, guid: bb4d6d1cb60e84e2698ab67823122506, type: 2}
+    formula: {fileID: 0}
   isHidden: 0

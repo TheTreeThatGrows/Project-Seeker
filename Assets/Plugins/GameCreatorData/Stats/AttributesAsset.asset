@@ -16,6 +16,8 @@ MonoBehaviour:
   - {fileID: 114271743648443778}
   - {fileID: 114291937499452772}
   - {fileID: 114072653249428620}
+  - {fileID: 114809281461271074}
+  - {fileID: 114541737602966512}
 --- !u!114 &114072653249428620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102,4 +104,62 @@ MonoBehaviour:
     color: {r: 0.8666667, g: 0.21339111, b: 0.20392156, a: 1}
     minValue: 0
     stat: {fileID: 114175997067868362, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+    percent: 1
+--- !u!114 &114541737602966512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ed1946d26146d59a35072bef19b50, type: 3}
+  m_Name: 75ew9vi2
+  m_EditorClassIdentifier: 
+  uniqueID: ac38e0ee3d5d4ddf92674c26f458a764
+  attribute:
+    uniqueName: defense
+    shortName: DEF
+    title:
+      content: Defense
+      postProcess: 0
+      translationID: 0
+    description:
+      content: Amount of Defense
+      postProcess: 0
+      translationID: 0
+    icon: {fileID: 0}
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    minValue: 0
+    stat: {fileID: 114132451361532224, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+    percent: 1
+--- !u!114 &114809281461271074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ed1946d26146d59a35072bef19b50, type: 3}
+  m_Name: dlnoi45q
+  m_EditorClassIdentifier: 
+  uniqueID: afc6fbbd7cf44640a2a3b29aaa4a6efb
+  attribute:
+    uniqueName: attack
+    shortName: ATK
+    title:
+      content: Attack
+      postProcess: 0
+      translationID: 0
+    description:
+      content: Amount of Attack
+      postProcess: 0
+      translationID: 0
+    icon: {fileID: 0}
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    minValue: 0
+    stat: {fileID: 114851839239555622, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
     percent: 1
