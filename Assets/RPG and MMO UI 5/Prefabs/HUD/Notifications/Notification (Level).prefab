@@ -500,7 +500,6 @@ GameObject:
   - component: {fileID: 114786106741891488}
   - component: {fileID: 114886586426601506}
   - component: {fileID: 114058443590056252}
-  - component: {fileID: 114153318484541046}
   m_Layer: 5
   m_Name: Notification (Level)
   m_TagString: Untagged
@@ -602,18 +601,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_HorizontalFit: 0
   m_VerticalFit: 2
---- !u!114 &114153318484541046
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1718312679154992}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2e1ce3fe4b4851478e36a2f9a4db54b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1798331481784532
 GameObject:
   m_ObjectHideFlags: 0

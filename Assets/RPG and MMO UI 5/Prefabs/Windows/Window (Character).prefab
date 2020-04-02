@@ -49463,7 +49463,6 @@ GameObject:
   - component: {fileID: 114028970017244838}
   - component: {fileID: 225113887509374556}
   - component: {fileID: 114032806615101974}
-  - component: {fileID: 114106514090162340}
   m_Layer: 5
   m_Name: Window (Character)
   m_TagString: Untagged
@@ -49600,18 +49599,6 @@ MonoBehaviour:
   m_OnButtonUp:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &114106514090162340
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1997751808208770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2e1ce3fe4b4851478e36a2f9a4db54b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1997760435426588
 GameObject:
   m_ObjectHideFlags: 0

@@ -18231,7 +18231,6 @@ GameObject:
   - component: {fileID: 114207012686147730}
   - component: {fileID: 225847495190409704}
   - component: {fileID: 114677952838136602}
-  - component: {fileID: 114865130630535106}
   m_Layer: 5
   m_Name: Window (Vendor)
   m_TagString: Untagged
@@ -18368,18 +18367,6 @@ MonoBehaviour:
   m_OnButtonUp:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &114865130630535106
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1633393131874948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2e1ce3fe4b4851478e36a2f9a4db54b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1634186705756072
 GameObject:
   m_ObjectHideFlags: 0
