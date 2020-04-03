@@ -19,6 +19,7 @@ MonoBehaviour:
     - {fileID: 114177772742640968}
     - {fileID: 114973290084467346}
     - {fileID: 114202326578594358}
+    - {fileID: 114164089079919586}
     - {fileID: 114826305866355372}
     - {fileID: 114961875310084520}
     - {fileID: 114212023077505736}
@@ -294,6 +295,46 @@ MonoBehaviour:
     type: 3}
   actionsOnUnequip: {fileID: 114493396764035258, guid: 45b6a6d28a6854953a28264a26421438,
     type: 3}
+--- !u!114 &114164089079919586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1347656443
+  m_EditorClassIdentifier: 
+  uuid: 1930410484
+  itemName:
+    content: Royal Axe [Heavy Weapon]
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Axe of royalty
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: e17e969f48e9a53409b1cf2fcfe4661f, type: 3}
+  prefab: {fileID: 6127778902043319522, guid: 9d1c985b7457c794e8b535b025421ccd, type: 3}
+  price: 100
+  maxStack: 1
+  weight: 5
+  itemTypes: 32
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114376854373756430, guid: 3b24833de60b7364db457c3e5465c507,
+    type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114711394317633460, guid: 251b94a9b0399b64faabf74a8fe13d9c,
+    type: 3}
+  actionsOnEquip: {fileID: 114579303995260872, guid: a8cb108725eb37e4eb9a91d1584a2f70,
+    type: 3}
+  actionsOnUnequip: {fileID: 114862963190555666, guid: 51032b0c0cf1b7444a20d1f6b7a52de3,
+    type: 3}
 --- !u!114 &114177772742640968
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -348,11 +389,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uuid: 1347656443
   itemName:
-    content: Aerendyl
+    content: Royal Longsword [Light Weapon]
     postProcess: 0
     translationID: 0
   itemDescription:
-    content: A Legendary sword
+    content: Longsword of royalty
     postProcess: 0
     translationID: 0
   itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
