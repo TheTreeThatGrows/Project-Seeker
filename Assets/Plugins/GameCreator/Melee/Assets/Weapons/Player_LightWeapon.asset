@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 174e3c307f7474e6fa3b8acd263a757e, type: 3}
-  m_Name: Player_Longsword_Aerendyl
+  m_Name: Player_LightWeapon
   m_EditorClassIdentifier: 
   weaponName:
     content: Aerendyl
