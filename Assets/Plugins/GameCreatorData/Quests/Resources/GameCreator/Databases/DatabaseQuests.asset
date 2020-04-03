@@ -24,7 +24,7 @@ MonoBehaviour:
   - {fileID: 114789793967114666, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
   - {fileID: 114100349208120626, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
   settings:
-    journalSkin: {fileID: 1202914977699904, guid: 743b49abe0d8402468b01264419ef048,
+    journalSkin: {fileID: 1202914977699904, guid: 6abe370550cfbe2499c73d476dba9300,
       type: 3}
     questsHUDSkin: {fileID: 0}
   questsTreeState:
