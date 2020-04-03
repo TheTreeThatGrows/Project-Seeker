@@ -1288,7 +1288,7 @@ MonoBehaviour:
   pushForce: 0
   poiseDamage: 5
   defenseDamage: 1
-  interruptible: 0
+  interruptible: 1
   vulnerability: 0
   posture: 0
   attackPhase:

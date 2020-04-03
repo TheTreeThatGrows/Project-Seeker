@@ -20,7 +20,7 @@ MonoBehaviour:
     content: Great Axe of Royalty
     postProcess: 0
     translationID: 0
-  defaultShield: {fileID: 11400000, guid: 2f64b0fde625d4f3eb639ab221516ad7, type: 2}
+  defaultShield: {fileID: 11400000, guid: 2b41f3d2004ea11449c9a5b9f9711881, type: 2}
   characterState: {fileID: 11400000, guid: 42137576e6926f643918f97f1aaf80dd, type: 2}
   characterMask: {fileID: 0}
   prefab: {fileID: 6127778902043319522, guid: 9d1c985b7457c794e8b535b025421ccd, type: 3}
@@ -47,7 +47,7 @@ MonoBehaviour:
   combos:
   - combo: 00000000
     condition: 3
-    meleeClip: {fileID: 11400000, guid: bb25d932cfb130546ac2a82079878684, type: 2}
+    meleeClip: {fileID: 11400000, guid: b41f431dbeea7984a9f7cc4d82161ffc, type: 2}
     isEnabled: 1
   - combo: 00000000
     condition: 1
@@ -71,7 +71,7 @@ MonoBehaviour:
     isEnabled: 1
   - combo: 000000000000000000000000
     condition: 0
-    meleeClip: {fileID: 11400000, guid: 57035e3508bd4de4191d4b52f103a79b, type: 2}
+    meleeClip: {fileID: 11400000, guid: 9bef9d3ef9ecbcd4588353d07f7f729c, type: 2}
     isEnabled: 1
   prefabImpactNormal: {fileID: 4329036519906242892, guid: 9408437927dbd43d6bca1f23faa3aba8,
     type: 3}

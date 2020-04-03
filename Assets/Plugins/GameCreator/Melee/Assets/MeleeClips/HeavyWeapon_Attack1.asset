@@ -1034,14 +1034,14 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   gravityInfluence: 1
-  movementMultiplier: 2
-  soundEffect: {fileID: 8300000, guid: 00f967e54adc343b1a07b49f4b7514c7, type: 3}
+  movementMultiplier: 3
+  soundEffect: {fileID: 8300000, guid: cb0288629d4c546ff8946e2f47590c6c, type: 3}
   hitPause: 1
   hitPauseAmount: 0.5
   hitPauseDuration: 0.3
   isAttack: 1
   isBlockable: 0
-  pushForce: 0
+  pushForce: 1
   poiseDamage: 2
   defenseDamage: 1
   interruptible: 1

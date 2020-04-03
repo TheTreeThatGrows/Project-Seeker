@@ -1034,15 +1034,15 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   gravityInfluence: 1
-  movementMultiplier: 2
+  movementMultiplier: 3
   soundEffect: {fileID: 8300000, guid: cb0288629d4c546ff8946e2f47590c6c, type: 3}
   hitPause: 1
   hitPauseAmount: 0.5
   hitPauseDuration: 0.3
   isAttack: 1
   isBlockable: 0
-  pushForce: 0
-  poiseDamage: 1
+  pushForce: 1
+  poiseDamage: 2
   defenseDamage: 1
   interruptible: 1
   vulnerability: 0
@@ -1060,7 +1060,7 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 0.53017026
+      time: 0.32987705
       value: 1
       inSlope: Infinity
       outSlope: Infinity
@@ -1069,7 +1069,7 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 1.9216685
+      time: 0.9386705
       value: 2
       inSlope: Infinity
       outSlope: Infinity
@@ -1078,7 +1078,7 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 3.0000002
+      time: 1.2
       value: 2
       inSlope: Infinity
       outSlope: Infinity
@@ -1089,5 +1089,5 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  actionsOnHit: {fileID: 1599016231212165757, guid: 36fbe41747ae1904a90763487fd3f147,
+  actionsOnHit: {fileID: 1093422140446236355, guid: 2aea34cfa6a527945bfd97e92faded52,
     type: 3}

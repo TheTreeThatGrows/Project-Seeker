@@ -235,7 +235,7 @@ MonoBehaviour:
   valueType: 0
   amount:
     optionIndex: 0
-    value: 20
+    value: 80
     global:
       allowTypesMask: 4
       name: 
