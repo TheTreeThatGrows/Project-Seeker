@@ -188,7 +188,8 @@ MonoBehaviour:
         postProcess: 0
         translationID: 0
   inventorySettings:
-    merchantUIPrefab: {fileID: 0}
+    merchantUIPrefab: {fileID: 1776935227048216, guid: 19a204ec0b460aa4b97ec09f220e81c4,
+      type: 3}
     containerUIPrefab: {fileID: 0}
     inventoryUIPrefab: {fileID: 1776935227048216, guid: 58c9ae6351673784ba6d4f0c3e933d08,
       type: 3}
