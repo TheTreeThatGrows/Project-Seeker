@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 114132079239255810}
   - component: {fileID: 114545785352487658}
   - component: {fileID: 114587056250161384}
+  - component: {fileID: 114161137651888916}
   m_Layer: 0
   m_Name: unequip 1
   m_TagString: Untagged
@@ -71,6 +72,7 @@ MonoBehaviour:
   - {fileID: 114132079239255810}
   - {fileID: 114545785352487658}
   - {fileID: 114587056250161384}
+  - {fileID: 114161137651888916}
   executingIndex: -1
   isExecuting: 0
 --- !u!114 &114132079239255810
@@ -177,3 +179,74 @@ MonoBehaviour:
   isExpanded: 1
   meleeWeapon: {fileID: 0}
   bone: 12
+--- !u!114 &114161137651888916
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730596129045396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cfa5e142bcfe42198c0a07caf282dff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 1
+  target:
+    target: 0
+    gameObject: {fileID: 0}
+    global:
+      allowTypesMask: 512
+      name: 
+    local:
+      allowTypesMask: 512
+      name: 
+      targetType: 2
+      targetObject: {fileID: 0}
+    list:
+      targetType: 3
+      targetObject: {fileID: 0}
+      select: 1
+      index: 0
+    eventChangeVariable:
+      m_PersistentCalls:
+        m_Calls: []
+  opponent:
+    target: 2
+    gameObject: {fileID: 0}
+    global:
+      allowTypesMask: -1
+      name: 
+    local:
+      allowTypesMask: -1
+      name: 
+      targetType: 2
+      targetObject: {fileID: 0}
+    list:
+      targetType: 3
+      targetObject: {fileID: 0}
+      select: 1
+      index: 0
+    eventChangeVariable:
+      m_PersistentCalls:
+        m_Calls: []
+  stat: {fileID: 114851839239555622, guid: 0431ef4462ebb4e059a79b2feeb54f7c, type: 2}
+  operation: 2
+  valueType: 0
+  amount:
+    optionIndex: 0
+    value: 70
+    global:
+      allowTypesMask: 4
+      name: 
+    local:
+      allowTypesMask: 4
+      name: 
+      targetType: 2
+      targetObject: {fileID: 0}
+    list:
+      targetType: 3
+      targetObject: {fileID: 0}
+      select: 1
+      index: 0
+  formula: {fileID: 0}
