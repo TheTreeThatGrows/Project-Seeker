@@ -355,7 +355,7 @@ MonoBehaviour:
     postProcess: 0
     translationID: 0
   itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  sprite: {fileID: 21300000, guid: 75d8cb367f3968249a6c49ab8ec9b745, type: 3}
+  sprite: {fileID: 21300000, guid: 077f7ea81c63f5a449b6814fbfb3ecd2, type: 3}
   prefab: {fileID: 6127778902043319522, guid: 92ff1006a37ec7b4a9e5e2ad11822a6f, type: 3}
   price: 100
   maxStack: 1
