@@ -1038,10 +1038,10 @@ MonoBehaviour:
   soundEffect: {fileID: 8300000, guid: cb0288629d4c546ff8946e2f47590c6c, type: 3}
   hitPause: 1
   hitPauseAmount: 0.5
-  hitPauseDuration: 0.3
+  hitPauseDuration: 0.5
   isAttack: 1
   isBlockable: 0
-  pushForce: 1
+  pushForce: 0
   poiseDamage: 2
   defenseDamage: 1
   interruptible: 1
